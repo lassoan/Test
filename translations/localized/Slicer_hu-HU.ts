@@ -50,7 +50,7 @@
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="356"/>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="475"/>
       <source>Material</source>
-      <translation type="unfinished">Material</translation>
+      <translation>Anyag</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="183"/>

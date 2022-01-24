@@ -9436,8 +9436,8 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="28"/>
-      <source>Create Markups:</source>
-      <translation type="unfinished">Create Markups:</translation>
+      <source>Create Markups test new more changed again:</source>
+      <translation type="unfinished">Create Markups test new more changed again:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="81"/>
@@ -9803,17 +9803,17 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
       <translation type="unfinished">Delete All</translation>
     </message>
     <message>
-      <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3190"/>
+      <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3199"/>
       <source>No measurement</source>
       <translation type="unfinished">No measurement</translation>
     </message>
     <message>
-      <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3277"/>
+      <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3286"/>
       <source>Export control points coordinates and properties to table.</source>
       <translation type="unfinished">Export control points coordinates and properties to table.</translation>
     </message>
     <message>
-      <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3285"/>
+      <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3294"/>
       <source>Import control points coordinates and properties from table node.
 Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, locked, description.</source>
       <translation type="unfinished">Import control points coordinates and properties from table node.
@@ -12792,12 +12792,12 @@ p, li { white-space: pre-wrap; }
   <context>
     <name>qSlicerSubjectHierarchyViewContextMenuPlugin</name>
     <message>
-      <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="309"/>
+      <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="283"/>
       <source>Restore view layout</source>
       <translation type="unfinished">Restore view layout</translation>
     </message>
     <message>
-      <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="313"/>
+      <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="287"/>
       <source>Maximize view</source>
       <translation type="unfinished">Maximize view</translation>
     </message>
@@ -12805,89 +12805,69 @@ p, li { white-space: pre-wrap; }
   <context>
     <name>qSlicerSubjectHierarchyViewContextMenuPluginPrivate</name>
     <message>
-      <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="145"/>
+      <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="141"/>
       <source>Center view</source>
       <translation type="unfinished">Center view</translation>
     </message>
     <message>
-      <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="147"/>
+      <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="143"/>
       <source>Center the slice on the currently visible 3D view content and all loaded volumes.</source>
       <translation type="unfinished">Center the slice on the currently visible 3D view content and all loaded volumes.</translation>
     </message>
     <message>
-      <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="152"/>
+      <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="148"/>
       <source>Reset field of view</source>
       <translation type="unfinished">Reset field of view</translation>
     </message>
     <message>
-      <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="154"/>
+      <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="150"/>
       <source>Center the slice view on the currently displayed volume.</source>
       <translation type="unfinished">Center the slice view on the currently displayed volume.</translation>
     </message>
     <message>
-      <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="159"/>
+      <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="155"/>
       <source>Maximize view</source>
       <translation type="unfinished">Maximize view</translation>
     </message>
     <message>
-      <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="161"/>
+      <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="157"/>
       <source>Show this view maximized in the view layout</source>
       <translation type="unfinished">Show this view maximized in the view layout</translation>
     </message>
     <message>
-      <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="166"/>
+      <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="162"/>
       <source>Tilt lock</source>
       <translation type="unfinished">Tilt lock</translation>
     </message>
     <message>
-      <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="168"/>
+      <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="164"/>
       <source>Prevent rotation around the horizontal axis when rotating this view.</source>
       <translation type="unfinished">Prevent rotation around the horizontal axis when rotating this view.</translation>
     </message>
     <message>
-      <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="169"/>
+      <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="165"/>
       <source>Ctrl+b</source>
       <translation type="unfinished">Ctrl+b</translation>
     </message>
     <message>
-      <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="175"/>
+      <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="171"/>
       <source>Configure slice view annotations...</source>
       <translation type="unfinished">Configure slice view annotations...</translation>
     </message>
     <message>
-      <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="177"/>
+      <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="173"/>
       <source>Configures display of corner annotations and color legend.</source>
       <translation type="unfinished">Configures display of corner annotations and color legend.</translation>
     </message>
     <message>
-      <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="182"/>
+      <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="178"/>
       <source>Copy image</source>
       <translation type="unfinished">Copy image</translation>
     </message>
     <message>
-      <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="184"/>
+      <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="180"/>
       <source>Copy a screenshot of this view to the clipboard</source>
       <translation type="unfinished">Copy a screenshot of this view to the clipboard</translation>
-    </message>
-    <message>
-      <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="190"/>
-      <source>Slice intersections</source>
-      <translation type="unfinished">Slice intersections</translation>
-    </message>
-    <message>
-      <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="192"/>
-      <source>Show how the other slice planes intersect each slice plane.</source>
-      <translation type="unfinished">Show how the other slice planes intersect each slice plane.</translation>
-    </message>
-    <message>
-      <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="200"/>
-      <source>Interaction</source>
-      <translation type="unfinished">Interaction</translation>
-    </message>
-    <message>
-      <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="202"/>
-      <source>Show handles for slice interaction.</source>
-      <translation type="unfinished">Show handles for slice interaction.</translation>
     </message>
   </context>
   <context>
@@ -13696,170 +13676,135 @@ This should only used by advanced users who understand the consequences of chang
   <context>
     <name>qSlicerViewersToolBarPrivate</name>
     <message>
-      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="59"/>
+      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="84"/>
       <source>No jump slices</source>
       <translation type="unfinished">No jump slices</translation>
     </message>
     <message>
-      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="60"/>
+      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="85"/>
       <source>Slice views are not repositioned when crosshair is moved.</source>
       <translation type="unfinished">Slice views are not repositioned when crosshair is moved.</translation>
     </message>
     <message>
-      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="64"/>
+      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="89"/>
       <source>Jump slices - offset</source>
       <translation type="unfinished">Jump slices - offset</translation>
     </message>
     <message>
-      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="65"/>
+      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="90"/>
       <source>Slice view planes are shifted to match crosshair position (even if crosshair is not displayed).</source>
       <translation type="unfinished">Slice view planes are shifted to match crosshair position (even if crosshair is not displayed).</translation>
     </message>
     <message>
-      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="69"/>
+      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="94"/>
       <source>Jump slices - centered</source>
       <translation type="unfinished">Jump slices - centered</translation>
     </message>
     <message>
-      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="70"/>
+      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="95"/>
       <source>Slice views are centered on crosshair position (even if crosshair is not displayed).</source>
       <translation type="unfinished">Slice views are centered on crosshair position (even if crosshair is not displayed).</translation>
     </message>
     <message>
-      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="89"/>
+      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="114"/>
       <source>No crosshair</source>
       <translation type="unfinished">No crosshair</translation>
     </message>
     <message>
-      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="90"/>
+      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="115"/>
       <source>No crosshair displayed.</source>
       <translation type="unfinished">No crosshair displayed.</translation>
     </message>
     <message>
-      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="94"/>
+      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="119"/>
       <source>Basic crosshair</source>
       <translation type="unfinished">Basic crosshair</translation>
     </message>
     <message>
-      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="95"/>
+      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="120"/>
       <source>Basic crosshair extending across the field of view with a small gap at the crosshair position.</source>
       <translation type="unfinished">Basic crosshair extending across the field of view with a small gap at the crosshair position.</translation>
     </message>
     <message>
-      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="99"/>
+      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="124"/>
       <source>Basic + intersection</source>
       <translation type="unfinished">Basic + intersection</translation>
     </message>
     <message>
-      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="100"/>
+      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="125"/>
       <source>Basic crosshair extending across the field of view.</source>
       <translation type="unfinished">Basic crosshair extending across the field of view.</translation>
     </message>
     <message>
-      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="104"/>
+      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="129"/>
       <source>Small basic crosshair</source>
       <translation type="unfinished">Small basic crosshair</translation>
     </message>
     <message>
-      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="105"/>
+      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="130"/>
       <source>Small crosshair with a small gap at the crosshair position.</source>
       <translation type="unfinished">Small crosshair with a small gap at the crosshair position.</translation>
     </message>
     <message>
-      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="109"/>
+      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="134"/>
       <source>Small basic + intersection</source>
       <translation type="unfinished">Small basic + intersection</translation>
     </message>
     <message>
-      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="110"/>
+      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="135"/>
       <source>Small crosshair.</source>
       <translation type="unfinished">Small crosshair.</translation>
     </message>
     <message>
-      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="140"/>
+      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="164"/>
       <source>Fine crosshair</source>
       <translation type="unfinished">Fine crosshair</translation>
     </message>
     <message>
-      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="141"/>
+      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="165"/>
       <source>Fine crosshair.</source>
       <translation type="unfinished">Fine crosshair.</translation>
     </message>
     <message>
-      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="145"/>
+      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="169"/>
       <source>Medium crosshair</source>
       <translation type="unfinished">Medium crosshair</translation>
     </message>
     <message>
-      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="146"/>
+      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="170"/>
       <source>Medium crosshair.</source>
       <translation type="unfinished">Medium crosshair.</translation>
     </message>
     <message>
-      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="150"/>
+      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="174"/>
       <source>Thick crosshair</source>
       <translation type="unfinished">Thick crosshair</translation>
     </message>
     <message>
-      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="151"/>
+      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="175"/>
       <source>Thick crosshair.</source>
       <translation type="unfinished">Thick crosshair.</translation>
     </message>
     <message>
-      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="171"/>
+      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="195"/>
       <source>Slice intersections</source>
       <translation type="unfinished">Slice intersections</translation>
     </message>
     <message>
-      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="172"/>
+      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="196"/>
       <source>Show how the other slice planes intersect each slice plane.</source>
       <translation type="unfinished">Show how the other slice planes intersect each slice plane.</translation>
     </message>
     <message>
-      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="179"/>
-      <source>Interaction</source>
-      <translation type="unfinished">Interaction</translation>
-    </message>
-    <message>
-      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="180"/>
-      <source>Show handles for slice interaction.</source>
-      <translation type="unfinished">Show handles for slice interaction.</translation>
-    </message>
-    <message>
-      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="189"/>
-      <source>Translate</source>
-      <translation type="unfinished">Translate</translation>
-    </message>
-    <message>
-      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="190"/>
-      <source>Control visibility of translation handles for slice intersection.</source>
-      <translation type="unfinished">Control visibility of translation handles for slice intersection.</translation>
-    </message>
-    <message>
-      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="196"/>
-      <source>Rotate</source>
-      <translation type="unfinished">Rotate</translation>
-    </message>
-    <message>
-      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="197"/>
-      <source>Control visibility of rotation handles for slice intersection.</source>
-      <translation type="unfinished">Control visibility of rotation handles for slice intersection.</translation>
-    </message>
-    <message>
-      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="203"/>
-      <source>Interaction options</source>
-      <translation type="unfinished">Interaction options</translation>
-    </message>
-    <message>
-      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="208"/>
-      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="225"/>
+      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="202"/>
+      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="215"/>
+      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="216"/>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="226"/>
-      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="236"/>
       <source>Crosshair</source>
       <translation type="unfinished">Crosshair</translation>
     </message>
     <message>
-      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="234"/>
+      <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="224"/>
       <source>Toggle crosshair visibility. Hold Shift key and move mouse in a view to set crosshair position.</source>
       <translation type="unfinished">Toggle crosshair visibility. Hold Shift key and move mouse in a view to set crosshair position.</translation>
     </message>
@@ -14195,6 +14140,19 @@ This should only used by advanced users who understand the consequences of chang
       <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="95"/>
       <source>Color table node used to display this volume.</source>
       <translation type="unfinished">Color table node used to display this volume.</translation>
+    </message>
+  </context>
+  <context>
+    <name>qSlicerVolumesModule</name>
+    <message>
+      <location filename="Modules/Loadable/Volumes/qSlicerVolumesModule.cxx" line="68"/>
+      <source>The Volumes Module is the interface for adjusting Window, Level, Threshold, Color LUT and other parameters that control the display of volume image data in the scene.&lt;br&gt;</source>
+      <translation type="unfinished">The Volumes Module is the interface for adjusting Window, Level, Threshold, Color LUT and other parameters that control the display of volume image data in the scene.&lt;br&gt;</translation>
+    </message>
+    <message>
+      <location filename="Modules/Loadable/Volumes/qSlicerVolumesModule.cxx" line="79"/>
+      <source>&lt;center&gt;&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAMIC.png&quot; alt&quot;NA-MIC&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAC.png&quot; alt&quot;NAC&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/BIRN-NoText.png&quot; alt&quot;BIRN&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NCIGT.png&quot; alt&quot;NCIGT&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;This work was supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
+      <translation type="unfinished">&lt;center&gt;&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAMIC.png&quot; alt&quot;NA-MIC&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAC.png&quot; alt&quot;NAC&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/BIRN-NoText.png&quot; alt&quot;BIRN&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NCIGT.png&quot; alt&quot;NCIGT&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;This work was supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</translation>
     </message>
   </context>
   <context>

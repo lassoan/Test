@@ -50,12 +50,12 @@
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="356"/>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="475"/>
       <source>Material</source>
-      <translation type="unfinished">Material</translation>
+      <translation>Anyag</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="183"/>
       <source>Points</source>
-      <translation type="unfinished">Points</translation>
+      <translation>Valami</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="194"/>
@@ -8677,7 +8677,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="98"/>
       <source>Undo Redo ToolBar</source>
-      <translation type="unfinished">Undo Redo ToolBar</translation>
+      <translation>Visszacsináló eszköztár</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="109"/>

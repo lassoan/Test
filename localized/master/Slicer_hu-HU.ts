@@ -151,7 +151,7 @@
     <message>
       <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="106"/>
       <source>Markups</source>
-      <translation type="unfinished">Markups</translation>
+      <translation>Jelölők</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="79"/>
@@ -3183,12 +3183,12 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="202"/>
       <source>Undo last editing operation</source>
-      <translation type="unfinished">Undo last editing operation</translation>
+      <translation>Visszacsinálja</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="205"/>
       <source>Undo</source>
-      <translation type="unfinished">Undo</translation>
+      <translation>Visszacsinál</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="222"/>
